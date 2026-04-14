@@ -25,7 +25,7 @@ Everything runs through a single Python CLI (`scripts/sway.py`) that wraps the A
 ### As a standalone CLI
 
 ```bash
-git clone https://github.com/<owner>/kanbanzone-sway-crm.git
+git clone https://github.com/lefebma/kanbanzone-sway-crm.git
 cd kanbanzone-sway-crm
 pip3 install certifi
 python3 scripts/sway.py verify
