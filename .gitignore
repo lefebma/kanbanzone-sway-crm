@@ -27,3 +27,4 @@ board-cache.json
 
 # Packaged skill build artifact
 *.skill
+RELEASE_NOTES_*.md
